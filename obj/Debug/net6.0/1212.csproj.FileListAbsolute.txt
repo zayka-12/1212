@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\GIT\1212\bin\Debug\net6.0\1212.exe
+C:\Users\Admin\Desktop\GIT\1212\bin\Debug\net6.0\1212.deps.json
+C:\Users\Admin\Desktop\GIT\1212\bin\Debug\net6.0\1212.runtimeconfig.json
+C:\Users\Admin\Desktop\GIT\1212\bin\Debug\net6.0\1212.dll
+C:\Users\Admin\Desktop\GIT\1212\bin\Debug\net6.0\1212.pdb
+C:\Users\Admin\Desktop\GIT\1212\obj\Debug\net6.0\1212.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\GIT\1212\obj\Debug\net6.0\1212.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\GIT\1212\obj\Debug\net6.0\1212.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\GIT\1212\obj\Debug\net6.0\1212.AssemblyInfo.cs
+C:\Users\Admin\Desktop\GIT\1212\obj\Debug\net6.0\1212.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\GIT\1212\obj\Debug\net6.0\1212.dll
+C:\Users\Admin\Desktop\GIT\1212\obj\Debug\net6.0\refint\1212.dll
+C:\Users\Admin\Desktop\GIT\1212\obj\Debug\net6.0\1212.pdb
+C:\Users\Admin\Desktop\GIT\1212\obj\Debug\net6.0\1212.genruntimeconfig.cache
+C:\Users\Admin\Desktop\GIT\1212\obj\Debug\net6.0\ref\1212.dll
